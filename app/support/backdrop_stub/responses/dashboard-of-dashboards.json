@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "name": "Tax disc",
+      "department": "DVLA",
+      "customer_satisfaction_percent_past_month": 95.0,
+      "total_applications_past_month": 4190000,
+      "total_applications_digital_last_month": 2270000,
+      "digital_applications_percent_last_month": 54.2, 
+      "page_load_time_ms_mean_30_days": 1964, 
+      "uptime_percent_30_days": 100, 
+      "page_load_time_ms_mean_24_hours": 1754, 
+      "uptime_percent_24_hours": 100
+    },
+    {
+      "name": "SORN",
+      "department": "DVLA",
+      "customer_satisfaction_percent_past_month": 92.3,
+      "total_applications_past_month": 408000,
+      "total_applications_digital_last_month": 347000, 
+      "digital_applications_percent_last_month": 85.0,
+      "page_load_time_ms_mean_30_days": 1994, 
+      "uptime_percent_30_days": 100, 
+      "page_load_time_ms_mean_24_hours": 1734, 
+      "uptime_percent_24_hours": 100
+    }, 
+    {
+      "name": "Lasting Power of Attorney",
+      "department": "Office of the Public Guardian",
+      "total_applications_past_month": 20730,
+      "total_applications_digital_last_month": 18860,
+      "digital_applications_percent_last_month": 91.0,
+      "completion_rate_percent_mean_last_month": 22, 
+      "page_load_time_ms_mean_30_days": 2444, 
+      "uptime_percent_30_days": 99, 
+      "page_load_time_ms_mean_24_hours": 2221, 
+      "uptime_percent_24_hours": 100
+    }, 
+    {
+      "name": "Carer's Allowance",
+      "department": "Department of Work and Pensions",
+      "total_applications_past_month": 17160,
+      "total_applications_digital_last_month": 10590,
+      "digital_applications_percent_last_month": 61.7,
+      "digital_takeup_percent_mean_last_month": 38,
+      "completion_rate_percent_mean_last_month": 65.5, 
+      "page_load_time_ms_mean_30_days": 960, 
+      "uptime_percent_30_days": 100, 
+      "page_load_time_ms_mean_24_hours": 1083, 
+      "uptime_percent_24_hours": 100
+    },
+    {
+      "name": "Pay to get documents legalised by post",
+      "department": "Foreign & Commmonwealth Office",
+      "total_applications_past_month": 5240,
+      "total_applications_digital_last_month": 5240,
+      "digital_applications_percent_last_month": 100.0,
+      "digital_takeup_percent_mean_last_month": 100,
+      "completion_rate_percent_mean_last_month": 62, 
+      "page_load_time_ms_mean_30_days": 471, 
+      "uptime_percent_30_days": 100, 
+      "page_load_time_ms_mean_24_hours": 379, 
+      "uptime_percent_24_hours": 100
+    },
+    {
+      "name": "Pay to legalise documents using the premium service",
+      "department": "Foreign & Commmonwealth Office",
+      "total_applications_past_month": 1361,
+      "total_applications_digital_last_month": 1361,
+      "digital_applications_percent_last_month": 100.0,
+      "digital_takeup_percent_mean_last_month": 100,
+      "completion_rate_percent_mean_last_month": 86.8, 
+      "page_load_time_ms_mean_30_days": 393, 
+      "uptime_percent_30_days": 100, 
+      "page_load_time_ms_mean_24_hours": 426, 
+      "uptime_percent_24_hours": 100
+    },
+    {
+      "name": "Deposit foreign marriage or civil partnership certificates",
+      "department": "Foreign & Commmonwealth Office",
+      "total_applications_past_month": 61,
+      "total_applications_digital_last_month": 61,
+      "digital_applications_percent_last_month": 100.0,
+      "digital_takeup_percent_mean_last_month": 100,
+      "completion_rate_percent_mean_last_month": 9.5, 
+      "page_load_time_ms_mean_30_days": 335, 
+      "uptime_percent_30_days": 100, 
+      "page_load_time_ms_mean_24_hours": 266, 
+      "uptime_percent_24_hours": 100
+    },
+    {
+      "name": "Payment for certificates to get married abroad",
+      "department": "Foreign & Commmonwealth Office",
+      "total_applications_past_month": 3,
+      "total_applications_digital_last_month": 3,
+      "digital_takeup_percent_mean_last_month": 100,
+      "digital_applications_percent_last_month": 100.0,
+      "completion_rate_percent_mean_last_month": 1.3, 
+      "page_load_time_ms_mean_30_days": 380, 
+      "uptime_percent_30_days": 100, 
+      "page_load_time_ms_mean_24_hours": 289, 
+      "uptime_percent_24_hours": 100
+    },
+    {
+      "name": "Payment to register a birth abroad in the UK",
+      "department": "Foreign & Commmonwealth Office",
+      "total_applications_past_month": 3,
+      "total_applications_digital_last_month": 3,
+      "digital_applications_percent_last_month": 100.0,
+      "digital_takeup_percent_mean_last_month": 100,
+      "completion_rate_percent_mean_last_month": 3.75, 
+      "page_load_time_ms_mean_30_days": 370, 
+      "uptime_percent_30_days": 100, 
+      "page_load_time_ms_mean_24_hours": 316, 
+      "uptime_percent_24_hours": 100
+    },
+    {
+      "name": "Payment to register a death abroad",
+      "department": "Foreign & Commmonwealth Office",
+      "total_applications_past_month": 3,
+      "total_applications_digital_last_month": 3,
+      "digital_applications_percent_last_month": 100.0,
+      "digital_takeup_percent_mean_last_month": 100,
+      "completion_rate_percent_mean_last_month": 1.3, 
+      "page_load_time_ms_mean_30_days": 322, 
+      "uptime_percent_30_days": 100, 
+      "page_load_time_ms_mean_24_hours": 360, 
+      "uptime_percent_24_hours": 100
+    }
+    
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "page-type": "dashboard",
+  "title": "KPIs for all services in the Performance Platform",
+  "strapline": "Christmas 2013",
+  "tagline": "The tables below show the data available across all the services in the Performance Platform, across the past month",
+  "modules": [
+    {
+      "slug": "overall-table",
+      "module-type": "table",
+      "title": "KPIs over past 30 days",
+      "description": "Key performance indicators across services over the past 30 days",
+      "data-group": "all-services",
+      "data-type": "dashboard-prototype",
+      "column_meta": [
+        {
+          "title": "Service",
+          "valueAttr": "name",
+          "formatNum": false
+        },
+        {
+          "title": "Total applications",
+          "valueAttr": "total_applications_past_month",
+          "formatNum": true
+        },
+        {
+          "title": "1.&nbsp;Digital&nbsp;applications (% of total)",
+          "valueAttr": "digital_applications_percent_last_month",
+          "formatNum": true
+        },
+        {
+          "title": "2.&nbsp;Online&nbsp;completion rate (%)",
+          "valueAttr": "completion_rate_percent_mean_last_month",
+          "formatNum": true
+        },
+        {
+          "title": "3.&nbsp;Customer satisfaction&nbsp;(%)",
+          "valueAttr": "customer_satisfaction_percent_past_month",
+          "formatNum": true
+        },
+        {
+          "title": "4.&nbsp;Cost per transaction",
+          "valueAttr": "cost_per_transaction_mean_last_month",
+          "formatNum": true
+        }
+      ]
+    },
+    {
+      "slug": "ga-table",
+      "module-type": "table",
+      "title": "Service availability over past 30 days",
+      "description": "Uptime and page load time across services in past 30 days and past 24 hours",
+      "data-group": "all-services",
+      "data-type": "dashboard-prototype",
+      "column_meta": [
+        {
+          "title": "Service",
+          "valueAttr": "name",
+          "formatNum": false
+        },
+        {
+          "title": "Mean page load time (ms)",
+          "valueAttr": "page_load_time_ms_mean_30_days",
+          "formatNum": true
+        },
+        {
+          "title": "Uptime (%)",
+          "valueAttr": "uptime_percent_30_days",
+          "formatNum": true
+        }
+      ]
+    }
+  ]
+}
