@@ -2,13 +2,13 @@
   "page-type": "dashboard",
   "title": "KPIs for all services in the Performance Platform",
   "strapline": "Christmas 2013",
-  "tagline": "The tables below show the data available across all the services in the Performance Platform, across the past month",
+  "tagline": "The data available across all the services in the Performance Platform, over the past 30 days. This includes:<ul><li>the four <a href='https://www.gov.uk/service-manual/measurement/other-kpis.html'>key performance indicators</a> that services must meet to achieve the Digital by Default Service Standard</li><li>technical performance indicators including page availability and load time.</li></ul>",
   "modules": [
     {
       "slug": "overall-table",
       "module-type": "table",
       "title": "KPIs over past 30 days",
-      "description": "Key performance indicators across services over the past 30 days",
+      "description": "The number of applications received by each service over the past 30 days, and the key performance indicators for each service (where available) over the same period.",
       "data-group": "all-services",
       "data-type": "dashboard-prototype",
       "column_meta": [
@@ -48,7 +48,7 @@
       "slug": "ga-table",
       "module-type": "table",
       "title": "Service availability over past 30 days",
-      "description": "Uptime and page load time across services in past 30 days and past 24 hours",
+      "description": "Mean page load time and uptime across services over the past 30 days.",
       "data-group": "all-services",
       "data-type": "dashboard-prototype",
       "column_meta": [
@@ -60,12 +60,12 @@
         {
           "title": "Mean page load time (ms)",
           "valueAttr": "page_load_time_ms_mean_30_days",
-          "formatNum": true
+          "formatNum": false
         },
         {
           "title": "Uptime (%)",
           "valueAttr": "uptime_percent_30_days",
-          "formatNum": true
+          "formatNum": false
         }
       ]
     }
