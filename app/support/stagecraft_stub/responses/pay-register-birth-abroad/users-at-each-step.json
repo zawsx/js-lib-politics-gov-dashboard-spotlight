@@ -5,7 +5,12 @@
   "description": "Number of users who completed important steps of the transaction last week",
   "dashboard-title": "Payment to register a birth abroad in the UK",
   "dashboard-strapline": "Service dashboard",
-  "dashboard-slug": "pay-register-birth-abroad",
+  "department": {
+    "title": "Foreign and Commonwealth Office"
+  },
+  "service": {
+    "title": "Register a birth abroad in the UK"
+  },
   "info": [
     "Data source: Google Analytics",
     "The total number of users who arrived at each step.",
