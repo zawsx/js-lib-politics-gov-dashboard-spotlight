@@ -150,10 +150,10 @@ function (StandaloneView, Collection, Model, View) {
         ]);
       });
 
-      it("adds policy as a crumb when Stagecraft returns the necessary properties", function () {
+      it("adds policy/other as a crumb when Stagecraft returns the necessary properties", function () {
         model.set({
           'dashboard-title': 'Parent dashboard',
-          'department': { 'title': 'A policy'}
+          'other': { 'title': 'A policy'}
         });
         expect(standaloneView.getBreadcrumbCrumbs()).toEqual([
           {path: '/performance', title: 'Performance'},
