@@ -5,7 +5,12 @@
   "description": "Number of users who completed important steps of the transaction last week",
   "dashboard-title": "Pay to legalise documents using the premium service",
   "dashboard-strapline": "Service dashboard",
-  "dashboard-slug": "pay-legalisation-drop-off",
+  "department": {
+    "title": "Foreign and Commonwealth Office"
+  },
+  "service": {
+    "title": "Legalise documents using the premium service"
+  },
   "info": [
     "Data source: Google Analytics",
     "The total number of users who arrived at each step.",
