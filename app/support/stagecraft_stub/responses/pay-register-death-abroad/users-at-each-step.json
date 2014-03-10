@@ -5,7 +5,12 @@
   "description": "Number of users who completed important steps of the transaction last week",
   "dashboard-title": "Payment to register a death abroad",
   "dashboard-strapline": "Service dashboard",
-  "dashboard-slug": "pay-register-death-abroad",
+  "department": {
+    "title": "Foreign and Commonwealth Office"
+  },
+  "service": {
+    "title": "Register a death abroad"
+  },
   "info": [
     "Data source: Google Analytics",
     "The total number of users who arrived at each step.",
