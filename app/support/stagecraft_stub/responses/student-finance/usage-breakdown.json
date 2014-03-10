@@ -7,7 +7,12 @@
   "data-type": "transactions-by-channel",
   "dashboard-title": "Apply for student finance",
   "dashboard-strapline": "Service dashboard",
-  "dashboard-slug": "student-finance",
+  "department": {
+    "title": "Department for Education"
+  },
+  "service": {
+    "title": "Student finance"
+  },
   "category": "channel",
   "filter-by": ["country:england", "application_type:full-time application"],
   "period": "week",
