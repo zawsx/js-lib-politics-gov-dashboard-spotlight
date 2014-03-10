@@ -5,7 +5,9 @@
   "description": "Volume of residential property transactions by nations and regions",
   "dashboard-title": "Housing",
   "dashboard-strapline": "Policy dashboard",
-  "dashboard-slug": "housing",
+  "policy": {
+    "title": "Housing"
+  },
   "data-group": "housing-policy",
   "data-type": "residential-transactions",
   "use_stack": false,
