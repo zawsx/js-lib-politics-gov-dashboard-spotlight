@@ -5,7 +5,12 @@
   "description": "Number of users who completed important steps of the transaction last week",
   "dashboard-title": "Payment for certificates to get married abroad",
   "dashboard-strapline": "Service dashboard",
-  "dashboard-slug": "pay-foreign-marriage-certificates",
+  "department": {
+    "title": "Foreign and Commonwealth Office"
+  },
+  "service": {
+    "title": "Certificates to get married abroad"
+  },
   "info": [
     "Data source: Google Analytics",
     "The total number of users who arrived at each step.",
