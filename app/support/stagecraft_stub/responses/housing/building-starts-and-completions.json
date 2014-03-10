@@ -5,9 +5,7 @@
   "description": "How many residential builds have been started and completed",
   "dashboard-title": "Housing",
   "dashboard-strapline": "Policy dashboard",
-  "policy": {
-    "title": "Housing"
-  },
+  "dashboard-slug": "housing",
   "data-group": "housing-policy",
   "data-type": "dwellings",
   "use_stack": false,

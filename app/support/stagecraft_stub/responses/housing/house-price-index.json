@@ -5,9 +5,7 @@
   "description": "Average HPIs by nations and regions (100 = February 2002)",
   "dashboard-title": "Housing",
   "dashboard-strapline": "Policy dashboard",
-  "policy": {
-    "title": "Housing"
-  },
+  "dashboard-slug": "housing",
   "data-group": "housing-policy",
   "data-type": "house-price-index",
   "use_stack": false,
