@@ -3,7 +3,6 @@
   "page-type": "dashboard",
   "dashboardType": "transaction",
   "strapline": "Service dashboard",
-  "description": "Statutory Off Road Notification",
   "department": {
     "title": "Department for Transport"
   },

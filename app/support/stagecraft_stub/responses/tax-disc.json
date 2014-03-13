@@ -3,7 +3,6 @@
   "page-type": "dashboard",
   "dashboardType": "transaction",
   "strapline": "Service dashboard",
-  "description": "Tax disc",
   "department": {
     "title": "Department for Transport"
   },
