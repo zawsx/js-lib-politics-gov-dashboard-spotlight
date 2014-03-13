@@ -13,9 +13,6 @@
   "department": {
     "title": "Department for Work and Pensions"
   },
-  "service": {
-    "title": "Carer's Allowance"
-  },
   "data-group": "carers-allowance",
   "data-type": "journey",
   "matching-attribute": "eventLabel",

@@ -7,9 +7,6 @@
   "department": {
     "title": "Foreign and Commonwealth Office"
   },
-  "service": {
-    "title": "Deposit foreign marriage or civil partnership certificates"
-  },
   "dashboard-slug": "deposit-foreign-marriage",
   "info": [
     "Data source: Google Analytics",

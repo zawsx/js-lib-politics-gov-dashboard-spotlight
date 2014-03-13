@@ -3,13 +3,10 @@
   "module-type": "journey",
   "title": "Users at each step",
   "description": "Number of users who completed important steps of the transaction last week",
-  "dashboard-title": "Payment to register a death abroad",
+  "dashboard-title": "Pay to register a death abroad",
   "dashboard-strapline": "Service dashboard",
   "department": {
     "title": "Foreign and Commonwealth Office"
-  },
-  "service": {
-    "title": "Register a death abroad"
   },
   "info": [
     "Data source: Google Analytics",
